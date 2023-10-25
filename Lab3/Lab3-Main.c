@@ -42,7 +42,7 @@ typedef enum {FALSE = 0, TRUE = 1} BOOL ;
 
 typedef struct
     {
-    int16_t             VREFIN_CAL ;    // Raw data acquired at temperature of 30 °C VDDA = 3.3 V
+    int16_t             VREFIN_CAL ;    // Raw data acquired at temperature of 30 Â°C VDDA = 3.3 V
     int16_t             TEMP_3V3_030C ; // ADC reading for 30 degrees C w/ref voltage = 3.3
     int16_t             TEMP_3V3_110C ; // ADC reading for 30 degrees C w/ref voltage = 3.3
     } ADC_CAL ;
