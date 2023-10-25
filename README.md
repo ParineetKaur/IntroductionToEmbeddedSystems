@@ -16,6 +16,8 @@ memory alignment.
 and modify bit fields within a packed representation
 
 ## Course References
+
 📖 ARM Assembly for Embedded Applications, 5th ed, Daniel W Lewis
+
 ---
 Thank you for visiting this repository!
